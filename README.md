@@ -1,2 +1,1 @@
 # course-typescript
-## Conceitos Básicos
