@@ -15,10 +15,10 @@ function renderPlatform(platform: Platform) {
   return platform;
 }
 
-logDetails(123, "shoes");
-logDetails("123", "shoes");
+logDetails(123, 'shoes');
+logDetails('123', 'shoes');
 
-logInfo(123, "Caio");
-logInfo("123", "Caio");
+logInfo(123, 'Caio');
+logInfo('123', 'Caio');
 
-renderPlatform("ios");
+renderPlatform('ios');
